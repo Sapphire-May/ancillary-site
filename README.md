@@ -1,2 +1,1 @@
 # ancillary-site
-{:toc}
