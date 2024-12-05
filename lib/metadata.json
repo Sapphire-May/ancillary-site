@@ -1,6 +1,6 @@
 {
   "vaultName": "OV",
-  "lastExport": 1733347934434,
+  "lastExport": 1733434975861,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -8,25 +8,33 @@
   "files": [
     "Creation/Crucible.md",
     "Files/2024-12-01_16-38-21.mp3",
+    "Life-Molding/'Partners'/Core.md",
+    "Life-Molding/'Partners'/Orbital.md",
+    "Life-Molding/Greatest Fears.md",
     "Logistics/Assets/Career & Skills.md",
     "Logistics/Assets/Expenses.md",
     "Logistics/Assets/Finances & Properties.md",
     "Logistics/Assets/Relations.md",
     "Logistics/Job Hunt/Strategy (WIP).md",
+    "Logistics/Micro/HRT.md",
+    "Logistics/Micro/Measurements.md",
+    "Logistics/Micro/Reminder for Small Habits.md",
     "Logistics/Parents/Common.md",
     "Logistics/Parents/Father.md",
     "Logistics/Parents/Mother (biological).md",
     "Logistics/Parents/tl;dr & Intent.md",
     "Logistics/An Focus Shortlist.md",
-    "Logistics/HRT.md",
     "Logistics/May Wellness Checklist.md",
     "Logistics/Visiting An.md",
     "Logistics/Visiting May.md",
     "Logistics/Visiting May, More Logistic (WIP).md",
+    "Notes/Friends.md",
     "Notes/glow.md",
     "Notes/hello an.md",
     "Notes/Normal Girl (idk).md",
     "Notes/nothing.md",
+    "Notes/Observation Buffer.md",
+    "Notes/Rambling -- Relationships, Debts.md",
     "Notes/remember your gifts.md",
     "Notes/remember your shame.md",
     "Stale/Older Moralo-Logistic Notes About Partners.md",
@@ -94,333 +102,381 @@
   ],
   "fileInfo": {
     "Creation/Crucible.md": {
-      "modifiedTime": 1733347934434,
-      "sourceSize": 723,
+      "modifiedTime": 1733434975861,
+      "sourceSize": 733,
       "exportedPath": "creation/crucible.html",
       "dependencies": [
         "lib/media/2024-12-01_16-38-21.mp3"
       ]
     },
     "Files/2024-12-01_16-38-21.mp3": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 1449980,
       "exportedPath": "files/2024-12-01_16-38-21.mp3",
       "dependencies": []
     },
+    "Life-Molding/'Partners'/Core.md": {
+      "modifiedTime": 1733434975861,
+      "sourceSize": 7883,
+      "exportedPath": "life-molding/'partners'/core.html",
+      "dependencies": []
+    },
+    "Life-Molding/'Partners'/Orbital.md": {
+      "modifiedTime": 1733434975861,
+      "sourceSize": 2817,
+      "exportedPath": "life-molding/'partners'/orbital.html",
+      "dependencies": []
+    },
+    "Life-Molding/Greatest Fears.md": {
+      "modifiedTime": 1733434975861,
+      "sourceSize": 5581,
+      "exportedPath": "life-molding/greatest-fears.html",
+      "dependencies": []
+    },
     "Logistics/Assets/Career & Skills.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 567,
       "exportedPath": "logistics/assets/career-&-skills.html",
       "dependencies": []
     },
     "Logistics/Assets/Expenses.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 453,
       "exportedPath": "logistics/assets/expenses.html",
       "dependencies": []
     },
     "Logistics/Assets/Finances & Properties.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 332,
       "exportedPath": "logistics/assets/finances-&-properties.html",
       "dependencies": []
     },
     "Logistics/Assets/Relations.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 571,
       "exportedPath": "logistics/assets/relations.html",
       "dependencies": []
     },
     "Logistics/Job Hunt/Strategy (WIP).md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 155,
       "exportedPath": "logistics/job-hunt/strategy-(wip).html",
       "dependencies": []
     },
+    "Logistics/Micro/HRT.md": {
+      "modifiedTime": 1733434975861,
+      "sourceSize": 3011,
+      "exportedPath": "logistics/micro/hrt.html",
+      "dependencies": []
+    },
+    "Logistics/Micro/Measurements.md": {
+      "modifiedTime": 1733434975861,
+      "sourceSize": 399,
+      "exportedPath": "logistics/micro/measurements.html",
+      "dependencies": []
+    },
+    "Logistics/Micro/Reminder for Small Habits.md": {
+      "modifiedTime": 1733434975861,
+      "sourceSize": 274,
+      "exportedPath": "logistics/micro/reminder-for-small-habits.html",
+      "dependencies": []
+    },
     "Logistics/Parents/Common.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 315,
       "exportedPath": "logistics/parents/common.html",
       "dependencies": []
     },
     "Logistics/Parents/Father.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 1956,
       "exportedPath": "logistics/parents/father.html",
       "dependencies": []
     },
     "Logistics/Parents/Mother (biological).md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 1606,
       "exportedPath": "logistics/parents/mother-(biological).html",
       "dependencies": []
     },
     "Logistics/Parents/tl;dr & Intent.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 707,
       "exportedPath": "logistics/parents/tl;dr-&-intent.html",
       "dependencies": []
     },
     "Logistics/An Focus Shortlist.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 404,
       "exportedPath": "logistics/an-focus-shortlist.html",
       "dependencies": []
     },
-    "Logistics/HRT.md": {
-      "modifiedTime": 1733347934434,
-      "sourceSize": 2320,
-      "exportedPath": "logistics/hrt.html",
-      "dependencies": []
-    },
     "Logistics/May Wellness Checklist.md": {
-      "modifiedTime": 1733347934434,
-      "sourceSize": 868,
+      "modifiedTime": 1733434975861,
+      "sourceSize": 989,
       "exportedPath": "logistics/may-wellness-checklist.html",
       "dependencies": []
     },
     "Logistics/Visiting An.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 2202,
       "exportedPath": "logistics/visiting-an.html",
       "dependencies": []
     },
     "Logistics/Visiting May.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 3170,
       "exportedPath": "logistics/visiting-may.html",
       "dependencies": []
     },
     "Logistics/Visiting May, More Logistic (WIP).md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 258,
       "exportedPath": "logistics/visiting-may,-more-logistic-(wip).html",
       "dependencies": []
     },
+    "Notes/Friends.md": {
+      "modifiedTime": 1733434975861,
+      "sourceSize": 156,
+      "exportedPath": "notes/friends.html",
+      "dependencies": []
+    },
     "Notes/glow.md": {
-      "modifiedTime": 1733347934434,
-      "sourceSize": 99,
+      "modifiedTime": 1733434975861,
+      "sourceSize": 101,
       "exportedPath": "notes/glow.html",
       "dependencies": []
     },
     "Notes/hello an.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 95,
       "exportedPath": "notes/hello-an.html",
       "dependencies": []
     },
     "Notes/Normal Girl (idk).md": {
-      "modifiedTime": 1733347934434,
-      "sourceSize": 1471,
+      "modifiedTime": 1733434975861,
+      "sourceSize": 1470,
       "exportedPath": "notes/normal-girl-(idk).html",
       "dependencies": []
     },
     "Notes/nothing.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 7,
       "exportedPath": "notes/nothing.html",
       "dependencies": []
     },
+    "Notes/Observation Buffer.md": {
+      "modifiedTime": 1733434975861,
+      "sourceSize": 1648,
+      "exportedPath": "notes/observation-buffer.html",
+      "dependencies": []
+    },
+    "Notes/Rambling -- Relationships, Debts.md": {
+      "modifiedTime": 1733434975861,
+      "sourceSize": 1446,
+      "exportedPath": "notes/rambling-relationships,-debts.html",
+      "dependencies": []
+    },
     "Notes/remember your gifts.md": {
-      "modifiedTime": 1733347934434,
-      "sourceSize": 1286,
+      "modifiedTime": 1733434975861,
+      "sourceSize": 1295,
       "exportedPath": "notes/remember-your-gifts.html",
       "dependencies": []
     },
     "Notes/remember your shame.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 195,
       "exportedPath": "notes/remember-your-shame.html",
       "dependencies": []
     },
     "Stale/Older Moralo-Logistic Notes About Partners.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 3073,
       "exportedPath": "stale/older-moralo-logistic-notes-about-partners.html",
       "dependencies": []
     },
     "Stale/Right & Wrong Regarding Partners.md": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 7064,
       "exportedPath": "stale/right-&-wrong-regarding-partners.html",
       "dependencies": []
     },
     "Foyer.md": {
-      "modifiedTime": 1733347934434,
-      "sourceSize": 376,
+      "modifiedTime": 1733434975861,
+      "sourceSize": 239,
       "exportedPath": "foyer.html",
       "dependencies": []
     },
     "lib/media/2024-12-01_16-38-21.mp3": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 1449980,
       "exportedPath": "lib/media/2024-12-01_16-38-21.mp3",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1733347934434,
-      "sourceSize": 14453,
+      "modifiedTime": 1733434975861,
+      "sourceSize": 19052,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1733347934434,
-      "sourceSize": 1590,
+      "modifiedTime": 1733434975861,
+      "sourceSize": 2046,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1733347934434,
+      "modifiedTime": 1733434975861,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
