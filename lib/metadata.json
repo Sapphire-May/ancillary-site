@@ -1,13 +1,21 @@
 {
   "vaultName": "OV",
-  "lastExport": 1733447020647,
+  "lastExport": 1733514579845,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Creation/Crucible.md",
+    "Files/Pastes/Pasted image 20241206151539.png",
+    "Files/Pastes/Pasted image 20241206151552.png",
+    "Files/Pastes/Pasted image 20241206151945.png",
+    "Files/Pastes/Pasted image 20241206155447.png",
+    "Files/Pastes/res_a6880ae17944c587189b8c569dea9965.webp",
+    "Files/Pastes/rochie-bleu-cu-volane-late-688286-598811-2.webp",
     "Files/Crucible Reading.mp3",
+    "Life-Molding/'Partners'/Execution/Intent List.md",
+    "Life-Molding/'Partners'/Execution/Status.md",
     "Life-Molding/'Partners'/Core.md",
     "Life-Molding/'Partners'/Orbital.md",
     "Life-Molding/Greatest Fears.md",
@@ -16,6 +24,7 @@
     "Logistics/Assets/Finances & Properties.md",
     "Logistics/Assets/Relations.md",
     "Logistics/Job Hunt/Strategy (WIP).md",
+    "Logistics/Minutiae/Clothes Aesthetic Information Request.md",
     "Logistics/Minutiae/HRT.md",
     "Logistics/Minutiae/Measurements.md",
     "Logistics/Minutiae/Reminder for Small Habits.md",
@@ -28,18 +37,27 @@
     "Logistics/Visiting An.md",
     "Logistics/Visiting May.md",
     "Logistics/Visiting May, More Logistic (WIP).md",
+    "Notes/An Attempt At Integration.md",
+    "Notes/echoing back.md",
     "Notes/Friends.md",
     "Notes/glow.md",
     "Notes/hello an.md",
     "Notes/Normal Girl (idk).md",
     "Notes/nothing.md",
     "Notes/Observation Buffer.md",
+    "Notes/positivity perhaps.md",
     "Notes/Rambling -- Relationships, Debts.md",
     "Notes/remember your gifts.md",
     "Notes/remember your shame.md",
     "Stale/Older Moralo-Logistic Notes About Partners.md",
     "Stale/Right & Wrong Regarding Partners.md",
     "Atrium.md",
+    "lib/media/res_a6880ae17944c587189b8c569dea9965.webp",
+    "lib/media/pasted-image-20241206151539.png",
+    "lib/media/pasted-image-20241206151552.png",
+    "lib/media/pasted-image-20241206151945.png",
+    "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp",
+    "lib/media/pasted-image-20241206155447.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -122,14 +140,14 @@
       "dependencies": []
     },
     "Life-Molding/'Partners'/Orbital.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 2817,
+      "modifiedTime": 1733514579845,
+      "sourceSize": 2816,
       "exportedPath": "life-molding/'partners'/orbital.html",
       "dependencies": []
     },
     "Life-Molding/Greatest Fears.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 5581,
+      "modifiedTime": 1733514579845,
+      "sourceSize": 5582,
       "exportedPath": "life-molding/greatest-fears.html",
       "dependencies": []
     },
@@ -266,8 +284,8 @@
       "dependencies": []
     },
     "Notes/Observation Buffer.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 1648,
+      "modifiedTime": 1733514579845,
+      "sourceSize": 2418,
       "exportedPath": "notes/observation-buffer.html",
       "dependencies": []
     },
@@ -314,171 +332,286 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1733447020647,
-      "sourceSize": 19060,
+      "modifiedTime": 1733514579845,
+      "sourceSize": 24816,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1733447020647,
-      "sourceSize": 2057,
+      "modifiedTime": 1733514579845,
+      "sourceSize": 2464,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1733447020647,
+      "modifiedTime": 1733514579845,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Files/Pastes/Pasted image 20241206151539.png": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 280748,
+      "exportedPath": "files/pastes/pasted-image-20241206151539.png",
+      "dependencies": []
+    },
+    "Files/Pastes/Pasted image 20241206151552.png": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 325843,
+      "exportedPath": "files/pastes/pasted-image-20241206151552.png",
+      "dependencies": []
+    },
+    "Files/Pastes/Pasted image 20241206151945.png": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 476031,
+      "exportedPath": "files/pastes/pasted-image-20241206151945.png",
+      "dependencies": []
+    },
+    "Files/Pastes/Pasted image 20241206155447.png": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 420669,
+      "exportedPath": "files/pastes/pasted-image-20241206155447.png",
+      "dependencies": []
+    },
+    "Files/Pastes/res_a6880ae17944c587189b8c569dea9965.webp": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 17794,
+      "exportedPath": "files/pastes/res_a6880ae17944c587189b8c569dea9965.webp",
+      "dependencies": []
+    },
+    "Files/Pastes/rochie-bleu-cu-volane-late-688286-598811-2.webp": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 41738,
+      "exportedPath": "files/pastes/rochie-bleu-cu-volane-late-688286-598811-2.webp",
+      "dependencies": []
+    },
+    "Life-Molding/'Partners'/Execution/Intent List.md": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 4686,
+      "exportedPath": "life-molding/'partners'/execution/intent-list.html",
+      "dependencies": []
+    },
+    "Life-Molding/'Partners'/Execution/Status.md": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 4770,
+      "exportedPath": "life-molding/'partners'/execution/status.html",
+      "dependencies": []
+    },
+    "Logistics/Minutiae/Clothes Aesthetic Information Request.md": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 281,
+      "exportedPath": "logistics/minutiae/clothes-aesthetic-information-request.html",
+      "dependencies": [
+        "lib/media/res_a6880ae17944c587189b8c569dea9965.webp",
+        "lib/media/pasted-image-20241206151539.png",
+        "lib/media/pasted-image-20241206151552.png",
+        "lib/media/pasted-image-20241206151945.png",
+        "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp",
+        "lib/media/pasted-image-20241206155447.png"
+      ]
+    },
+    "Notes/An Attempt At Integration.md": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 10136,
+      "exportedPath": "notes/an-attempt-at-integration.html",
+      "dependencies": []
+    },
+    "Notes/echoing back.md": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 337,
+      "exportedPath": "notes/echoing-back.html",
+      "dependencies": []
+    },
+    "Notes/positivity perhaps.md": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 3671,
+      "exportedPath": "notes/positivity-perhaps.html",
+      "dependencies": []
+    },
+    "lib/media/res_a6880ae17944c587189b8c569dea9965.webp": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 17794,
+      "exportedPath": "lib/media/res_a6880ae17944c587189b8c569dea9965.webp",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241206151539.png": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 280748,
+      "exportedPath": "lib/media/pasted-image-20241206151539.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241206151552.png": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 325843,
+      "exportedPath": "lib/media/pasted-image-20241206151552.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241206151945.png": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 476031,
+      "exportedPath": "lib/media/pasted-image-20241206151945.png",
+      "dependencies": []
+    },
+    "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 41738,
+      "exportedPath": "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241206155447.png": {
+      "modifiedTime": 1733514579845,
+      "sourceSize": 420669,
+      "exportedPath": "lib/media/pasted-image-20241206155447.png",
       "dependencies": []
     }
   }
