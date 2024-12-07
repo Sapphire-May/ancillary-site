@@ -1,6 +1,6 @@
 {
   "vaultName": "OV",
-  "lastExport": 1733547355107,
+  "lastExport": 1733581356632,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -20,6 +20,7 @@
     "Life-Molding/'Partners'/Core.md",
     "Life-Molding/'Partners'/Orbital.md",
     "Life-Molding/Greatest Fears.md",
+    "Life-Molding/Mindfulness Practice.md",
     "Logistics/Assets/Career & Skills.md",
     "Logistics/Assets/Expenses.md",
     "Logistics/Assets/Finances & Properties.md",
@@ -44,6 +45,7 @@
     "Notes/Friends.md",
     "Notes/glow.md",
     "Notes/hello an.md",
+    "Notes/Negativism Observations.md",
     "Notes/Normal Girl (idk).md",
     "Notes/nothing.md",
     "Notes/Observation Buffer.md",
@@ -289,8 +291,8 @@
       "dependencies": []
     },
     "Notes/Observation Buffer.md": {
-      "modifiedTime": 1733526182468,
-      "sourceSize": 4511,
+      "modifiedTime": 1733581356632,
+      "sourceSize": 5259,
       "exportedPath": "notes/observation-buffer.html",
       "dependencies": []
     },
@@ -337,169 +339,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1733547355107,
-      "sourceSize": 25593,
+      "modifiedTime": 1733581356632,
+      "sourceSize": 26282,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1733547355107,
-      "sourceSize": 2561,
+      "modifiedTime": 1733581356632,
+      "sourceSize": 2692,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1733547355107,
+      "modifiedTime": 1733581356632,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -635,6 +637,18 @@
       "modifiedTime": 1733525277245,
       "sourceSize": 52448,
       "exportedPath": "lib/media/women_s_shoe_size_chart_480x480.png",
+      "dependencies": []
+    },
+    "Life-Molding/Mindfulness Practice.md": {
+      "modifiedTime": 1733581356632,
+      "sourceSize": 1118,
+      "exportedPath": "life-molding/mindfulness-practice.html",
+      "dependencies": []
+    },
+    "Notes/Negativism Observations.md": {
+      "modifiedTime": 1733581356632,
+      "sourceSize": 2088,
+      "exportedPath": "notes/negativism-observations.html",
       "dependencies": []
     }
   }
