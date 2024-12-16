@@ -1,12 +1,16 @@
 {
   "vaultName": "OV",
-  "lastExport": 1734236871890,
+  "lastExport": 1734316495221,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Creation/Crucible.md",
+    "Faith/Goddess Adoration.md",
+    "Faith/Misc Goddess Facts.md",
+    "Faith/Politics.md",
+    "Faith/Scripture.md",
     "Files/Pastes/Pasted image 20241206151539.png",
     "Files/Pastes/Pasted image 20241206151552.png",
     "Files/Pastes/Pasted image 20241206151945.png",
@@ -20,7 +24,6 @@
     "Life-Molding/'Partners'/Core.md",
     "Life-Molding/'Partners'/Orbital.md",
     "Life-Molding/Greatest Fears.md",
-    "Life-Molding/Mindfulness Practice.md",
     "Logistics/Assets/Career & Skills.md",
     "Logistics/Assets/Expenses.md",
     "Logistics/Assets/Finances & Properties.md",
@@ -41,25 +44,26 @@
     "Logistics/An Focus Shortlist.md",
     "Logistics/May Wellness Checklist.md",
     "Logistics/Visiting An.md",
-    "Notes/(!) A Request To Keep My Function.md",
-    "Notes/An Attempt At Integration.md",
-    "Notes/echoing back.md",
-    "Notes/Friends.md",
-    "Notes/glow.md",
-    "Notes/hello an.md",
-    "Notes/Negativism Observations.md",
-    "Notes/Normal Girl (idk).md",
+    "Notes/Future with May.md",
+    "Notes/mixed log.md",
     "Notes/nothing.md",
-    "Notes/Observation Buffer.md",
     "Notes/openness.md",
     "Notes/openness2.md",
-    "Notes/positivity perhaps.md",
-    "Notes/Rambling -- Relationships, Debts.md",
-    "Notes/remember your gifts.md",
-    "Notes/remember your shame.md",
-    "Notes/Things I like About The Goddess.md",
-    "Notes/Untitled.md",
+    "Stale/(!) A Request To Keep My Function.md",
+    "Stale/An Attempt At Integration.md",
+    "Stale/echoing back.md",
+    "Stale/Friends.md",
+    "Stale/glow.md",
+    "Stale/hello an.md",
+    "Stale/Mindfulness Practice.md",
+    "Stale/Negativism Observations.md",
+    "Stale/Normal Girl (idk).md",
+    "Stale/Observation Buffer.md",
     "Stale/Older Moralo-Logistic Notes About Partners.md",
+    "Stale/positivity perhaps.md",
+    "Stale/Rambling -- Relationships, Debts.md",
+    "Stale/remember your gifts.md",
+    "Stale/remember your shame.md",
     "Stale/Right & Wrong Regarding Partners.md",
     "Atrium.md",
     "lib/scripts/graph-wasm.wasm",
@@ -231,8 +235,8 @@
       "dependencies": []
     },
     "Logistics/An Focus Shortlist.md": {
-      "modifiedTime": 1733680703148,
-      "sourceSize": 449,
+      "modifiedTime": 1734316495221,
+      "sourceSize": 257,
       "exportedPath": "logistics/an-focus-shortlist.html",
       "dependencies": []
     },
@@ -248,58 +252,10 @@
       "exportedPath": "logistics/visiting-an.html",
       "dependencies": []
     },
-    "Notes/Friends.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 156,
-      "exportedPath": "notes/friends.html",
-      "dependencies": []
-    },
-    "Notes/glow.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 101,
-      "exportedPath": "notes/glow.html",
-      "dependencies": []
-    },
-    "Notes/hello an.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 95,
-      "exportedPath": "notes/hello-an.html",
-      "dependencies": []
-    },
-    "Notes/Normal Girl (idk).md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 1470,
-      "exportedPath": "notes/normal-girl-(idk).html",
-      "dependencies": []
-    },
     "Notes/nothing.md": {
       "modifiedTime": 1733446214062,
       "sourceSize": 35,
       "exportedPath": "notes/nothing.html",
-      "dependencies": []
-    },
-    "Notes/Observation Buffer.md": {
-      "modifiedTime": 1733854851564,
-      "sourceSize": 7346,
-      "exportedPath": "notes/observation-buffer.html",
-      "dependencies": []
-    },
-    "Notes/Rambling -- Relationships, Debts.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 1446,
-      "exportedPath": "notes/rambling-relationships,-debts.html",
-      "dependencies": []
-    },
-    "Notes/remember your gifts.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 1295,
-      "exportedPath": "notes/remember-your-gifts.html",
-      "dependencies": []
-    },
-    "Notes/remember your shame.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 195,
-      "exportedPath": "notes/remember-your-shame.html",
       "dependencies": []
     },
     "Stale/Older Moralo-Logistic Notes About Partners.md": {
@@ -327,169 +283,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1734236871890,
-      "sourceSize": 29561,
+      "modifiedTime": 1734316495221,
+      "sourceSize": 31453,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1734236871890,
-      "sourceSize": 3024,
+      "modifiedTime": 1734316495221,
+      "sourceSize": 3167,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1734236871890,
+      "modifiedTime": 1734316495221,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -543,24 +499,6 @@
         "lib/media/pasted-image-20241206155447.png"
       ]
     },
-    "Notes/An Attempt At Integration.md": {
-      "modifiedTime": 1733514579845,
-      "sourceSize": 10136,
-      "exportedPath": "notes/an-attempt-at-integration.html",
-      "dependencies": []
-    },
-    "Notes/echoing back.md": {
-      "modifiedTime": 1733514579845,
-      "sourceSize": 337,
-      "exportedPath": "notes/echoing-back.html",
-      "dependencies": []
-    },
-    "Notes/positivity perhaps.md": {
-      "modifiedTime": 1733514579845,
-      "sourceSize": 3671,
-      "exportedPath": "notes/positivity-perhaps.html",
-      "dependencies": []
-    },
     "lib/media/res_a6880ae17944c587189b8c569dea9965.webp": {
       "modifiedTime": 1733514579845,
       "sourceSize": 17794,
@@ -609,12 +547,6 @@
       "exportedPath": "life-molding/'partners'/execution/2.-intent-list.html",
       "dependencies": []
     },
-    "Notes/(!) A Request To Keep My Function.md": {
-      "modifiedTime": 1733523105906,
-      "sourceSize": 2224,
-      "exportedPath": "notes/(!)-a-request-to-keep-my-function.html",
-      "dependencies": []
-    },
     "Files/Pastes/Women_s_Shoe_Size_Chart_480x480.png": {
       "modifiedTime": 1733525277245,
       "sourceSize": 52448,
@@ -625,18 +557,6 @@
       "modifiedTime": 1733525277245,
       "sourceSize": 52448,
       "exportedPath": "lib/media/women_s_shoe_size_chart_480x480.png",
-      "dependencies": []
-    },
-    "Life-Molding/Mindfulness Practice.md": {
-      "modifiedTime": 1733854851564,
-      "sourceSize": 2363,
-      "exportedPath": "life-molding/mindfulness-practice.html",
-      "dependencies": []
-    },
-    "Notes/Negativism Observations.md": {
-      "modifiedTime": 1733581356632,
-      "sourceSize": 2088,
-      "exportedPath": "notes/negativism-observations.html",
       "dependencies": []
     },
     "Logistics/Visiting May/Stale/Visiting May.md": {
@@ -681,16 +601,124 @@
       "exportedPath": "notes/openness2.html",
       "dependencies": []
     },
-    "Notes/Things I like About The Goddess.md": {
-      "modifiedTime": 1734236871890,
-      "sourceSize": 4152,
-      "exportedPath": "notes/things-i-like-about-the-goddess.html",
+    "Faith/Goddess Adoration.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 446,
+      "exportedPath": "faith/goddess-adoration.html",
       "dependencies": []
     },
-    "Notes/Untitled.md": {
-      "modifiedTime": 1734236871890,
-      "sourceSize": 4689,
-      "exportedPath": "notes/untitled.html",
+    "Faith/Misc Goddess Facts.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 190,
+      "exportedPath": "faith/misc-goddess-facts.html",
+      "dependencies": []
+    },
+    "Faith/Politics.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 488,
+      "exportedPath": "faith/politics.html",
+      "dependencies": []
+    },
+    "Faith/Scripture.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 14192,
+      "exportedPath": "faith/scripture.html",
+      "dependencies": []
+    },
+    "Notes/Future with May.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 5247,
+      "exportedPath": "notes/future-with-may.html",
+      "dependencies": []
+    },
+    "Notes/mixed log.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 4673,
+      "exportedPath": "notes/mixed-log.html",
+      "dependencies": []
+    },
+    "Stale/(!) A Request To Keep My Function.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 2224,
+      "exportedPath": "stale/(!)-a-request-to-keep-my-function.html",
+      "dependencies": []
+    },
+    "Stale/An Attempt At Integration.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 10136,
+      "exportedPath": "stale/an-attempt-at-integration.html",
+      "dependencies": []
+    },
+    "Stale/echoing back.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 337,
+      "exportedPath": "stale/echoing-back.html",
+      "dependencies": []
+    },
+    "Stale/Friends.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 156,
+      "exportedPath": "stale/friends.html",
+      "dependencies": []
+    },
+    "Stale/glow.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 101,
+      "exportedPath": "stale/glow.html",
+      "dependencies": []
+    },
+    "Stale/hello an.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 95,
+      "exportedPath": "stale/hello-an.html",
+      "dependencies": []
+    },
+    "Stale/Mindfulness Practice.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 2363,
+      "exportedPath": "stale/mindfulness-practice.html",
+      "dependencies": []
+    },
+    "Stale/Negativism Observations.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 2088,
+      "exportedPath": "stale/negativism-observations.html",
+      "dependencies": []
+    },
+    "Stale/Normal Girl (idk).md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 1470,
+      "exportedPath": "stale/normal-girl-(idk).html",
+      "dependencies": []
+    },
+    "Stale/Observation Buffer.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 7346,
+      "exportedPath": "stale/observation-buffer.html",
+      "dependencies": []
+    },
+    "Stale/positivity perhaps.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 3671,
+      "exportedPath": "stale/positivity-perhaps.html",
+      "dependencies": []
+    },
+    "Stale/Rambling -- Relationships, Debts.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 1446,
+      "exportedPath": "stale/rambling-relationships,-debts.html",
+      "dependencies": []
+    },
+    "Stale/remember your gifts.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 1295,
+      "exportedPath": "stale/remember-your-gifts.html",
+      "dependencies": []
+    },
+    "Stale/remember your shame.md": {
+      "modifiedTime": 1734316495221,
+      "sourceSize": 195,
+      "exportedPath": "stale/remember-your-shame.html",
       "dependencies": []
     }
   }
