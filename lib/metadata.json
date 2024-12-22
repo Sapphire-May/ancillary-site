@@ -1,12 +1,14 @@
 {
   "vaultName": "OV",
-  "lastExport": 1734586682401,
+  "lastExport": 1734842573205,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
     "Creation/Crucible.md",
+    "Creation/pleasee.png",
+    "Creation/pleasee_original.png",
     "Creation/True Alloy.md",
     "Faith/Goddess Adoration.md",
     "Faith/Misc Goddess Facts.md",
@@ -30,10 +32,8 @@
     "Logistics/Assets/Finances & Properties.md",
     "Logistics/Assets/Relations.md",
     "Logistics/Job Hunt/Strategy.md",
-    "Logistics/Minutiae/Clothes Aesthetic Information Request.md",
     "Logistics/Minutiae/HRT.md",
     "Logistics/Minutiae/Measurements.md",
-    "Logistics/Minutiae/Reminder for Small Habits.md",
     "Logistics/Parents/Common.md",
     "Logistics/Parents/Father.md",
     "Logistics/Parents/Mother (biological).md",
@@ -45,13 +45,18 @@
     "Logistics/An Focus Shortlist.md",
     "Logistics/May Wellness Checklist.md",
     "Logistics/Visiting An.md",
+    "Notes/abortive note analyzing dignity.md",
     "Notes/Future with May.md",
     "Notes/mixed log.md",
     "Notes/nothing.md",
     "Notes/openness.md",
     "Notes/openness2.md",
+    "Notes/reaction to document 1.md",
+    "Notes/reaction to document 2.md",
+    "Notes/running away ideation.md",
     "Stale/(!) A Request To Keep My Function.md",
     "Stale/An Attempt At Integration.md",
+    "Stale/Clothes Aesthetic Information Request.md",
     "Stale/echoing back.md",
     "Stale/Friends.md",
     "Stale/glow.md",
@@ -65,8 +70,15 @@
     "Stale/Rambling -- Relationships, Debts.md",
     "Stale/remember your gifts.md",
     "Stale/remember your shame.md",
+    "Stale/Reminder for Small Habits.md",
     "Stale/Right & Wrong Regarding Partners.md",
     "Atrium.md",
+    "lib/media/res_a6880ae17944c587189b8c569dea9965.webp",
+    "lib/media/pasted-image-20241206151539.png",
+    "lib/media/pasted-image-20241206151552.png",
+    "lib/media/pasted-image-20241206151945.png",
+    "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp",
+    "lib/media/pasted-image-20241206155447.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -96,12 +108,6 @@
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
     "lib/media/crucible-reading.mp3",
-    "lib/media/res_a6880ae17944c587189b8c569dea9965.webp",
-    "lib/media/pasted-image-20241206151539.png",
-    "lib/media/pasted-image-20241206151552.png",
-    "lib/media/pasted-image-20241206151945.png",
-    "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp",
-    "lib/media/pasted-image-20241206155447.png",
     "lib/media/women_s_shoe_size_chart_480x480.png"
   ],
   "mainDependencies": [
@@ -192,7 +198,7 @@
       "dependencies": []
     },
     "Logistics/Minutiae/HRT.md": {
-      "modifiedTime": 1733446214062,
+      "modifiedTime": 1734842573205,
       "sourceSize": 3011,
       "exportedPath": "logistics/minutiae/hrt.html",
       "dependencies": []
@@ -204,12 +210,6 @@
       "dependencies": [
         "lib/media/women_s_shoe_size_chart_480x480.png"
       ]
-    },
-    "Logistics/Minutiae/Reminder for Small Habits.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 274,
-      "exportedPath": "logistics/minutiae/reminder-for-small-habits.html",
-      "dependencies": []
     },
     "Logistics/Parents/Common.md": {
       "modifiedTime": 1733446214062,
@@ -284,169 +284,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1734586682401,
-      "sourceSize": 31774,
+      "modifiedTime": 1734842573205,
+      "sourceSize": 33848,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1734586682401,
-      "sourceSize": 3209,
+      "modifiedTime": 1734842573205,
+      "sourceSize": 3451,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734842573205,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -487,51 +487,38 @@
       "exportedPath": "files/pastes/rochie-bleu-cu-volane-late-688286-598811-2.webp",
       "dependencies": []
     },
-    "Logistics/Minutiae/Clothes Aesthetic Information Request.md": {
-      "modifiedTime": 1733514579845,
-      "sourceSize": 281,
-      "exportedPath": "logistics/minutiae/clothes-aesthetic-information-request.html",
-      "dependencies": [
-        "lib/media/res_a6880ae17944c587189b8c569dea9965.webp",
-        "lib/media/pasted-image-20241206151539.png",
-        "lib/media/pasted-image-20241206151552.png",
-        "lib/media/pasted-image-20241206151945.png",
-        "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp",
-        "lib/media/pasted-image-20241206155447.png"
-      ]
-    },
     "lib/media/res_a6880ae17944c587189b8c569dea9965.webp": {
-      "modifiedTime": 1733514579845,
+      "modifiedTime": 1734842573205,
       "sourceSize": 17794,
       "exportedPath": "lib/media/res_a6880ae17944c587189b8c569dea9965.webp",
       "dependencies": []
     },
     "lib/media/pasted-image-20241206151539.png": {
-      "modifiedTime": 1733514579845,
+      "modifiedTime": 1734842573205,
       "sourceSize": 280748,
       "exportedPath": "lib/media/pasted-image-20241206151539.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241206151552.png": {
-      "modifiedTime": 1733514579845,
+      "modifiedTime": 1734842573205,
       "sourceSize": 325843,
       "exportedPath": "lib/media/pasted-image-20241206151552.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20241206151945.png": {
-      "modifiedTime": 1733514579845,
+      "modifiedTime": 1734842573205,
       "sourceSize": 476031,
       "exportedPath": "lib/media/pasted-image-20241206151945.png",
       "dependencies": []
     },
     "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp": {
-      "modifiedTime": 1733514579845,
+      "modifiedTime": 1734842573205,
       "sourceSize": 41738,
       "exportedPath": "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp",
       "dependencies": []
     },
     "lib/media/pasted-image-20241206155447.png": {
-      "modifiedTime": 1733514579845,
+      "modifiedTime": 1734842573205,
       "sourceSize": 420669,
       "exportedPath": "lib/media/pasted-image-20241206155447.png",
       "dependencies": []
@@ -621,7 +608,7 @@
       "dependencies": []
     },
     "Faith/Scripture.md": {
-      "modifiedTime": 1734586682401,
+      "modifiedTime": 1734646207569,
       "sourceSize": 50844,
       "exportedPath": "faith/scripture.html",
       "dependencies": []
@@ -726,6 +713,61 @@
       "modifiedTime": 1734586682401,
       "sourceSize": 1166,
       "exportedPath": "creation/true-alloy.html",
+      "dependencies": []
+    },
+    "Notes/reaction to document 1.md": {
+      "modifiedTime": 1734761399474,
+      "sourceSize": 2436,
+      "exportedPath": "notes/reaction-to-document-1.html",
+      "dependencies": []
+    },
+    "Notes/reaction to document 2.md": {
+      "modifiedTime": 1734761399474,
+      "sourceSize": 6187,
+      "exportedPath": "notes/reaction-to-document-2.html",
+      "dependencies": []
+    },
+    "Creation/pleasee.png": {
+      "modifiedTime": 1734842573205,
+      "sourceSize": 951703,
+      "exportedPath": "creation/pleasee.png",
+      "dependencies": []
+    },
+    "Creation/pleasee_original.png": {
+      "modifiedTime": 1734842573205,
+      "sourceSize": 1016646,
+      "exportedPath": "creation/pleasee_original.png",
+      "dependencies": []
+    },
+    "Notes/abortive note analyzing dignity.md": {
+      "modifiedTime": 1734842573205,
+      "sourceSize": 1124,
+      "exportedPath": "notes/abortive-note-analyzing-dignity.html",
+      "dependencies": []
+    },
+    "Notes/running away ideation.md": {
+      "modifiedTime": 1734842573205,
+      "sourceSize": 4844,
+      "exportedPath": "notes/running-away-ideation.html",
+      "dependencies": []
+    },
+    "Stale/Clothes Aesthetic Information Request.md": {
+      "modifiedTime": 1734842573205,
+      "sourceSize": 281,
+      "exportedPath": "stale/clothes-aesthetic-information-request.html",
+      "dependencies": [
+        "lib/media/res_a6880ae17944c587189b8c569dea9965.webp",
+        "lib/media/pasted-image-20241206151539.png",
+        "lib/media/pasted-image-20241206151552.png",
+        "lib/media/pasted-image-20241206151945.png",
+        "lib/media/rochie-bleu-cu-volane-late-688286-598811-2.webp",
+        "lib/media/pasted-image-20241206155447.png"
+      ]
+    },
+    "Stale/Reminder for Small Habits.md": {
+      "modifiedTime": 1734842573205,
+      "sourceSize": 334,
+      "exportedPath": "stale/reminder-for-small-habits.html",
       "dependencies": []
     }
   }
