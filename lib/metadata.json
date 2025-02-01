@@ -1,6 +1,6 @@
 {
   "vaultName": "OV",
-  "lastExport": 1735257683932,
+  "lastExport": 1738444796522,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -14,6 +14,9 @@
     "Faith/Misc Goddess Facts.md",
     "Faith/Politics.md",
     "Faith/Scripture.md",
+    "Faith/Scripture 2023.md",
+    "Files/Pastes/Conjurer_Diagram.svg",
+    "Files/Pastes/GhNr-YpaUAA4qJi.jpeg",
     "Files/Pastes/Pasted image 20241206151539.png",
     "Files/Pastes/Pasted image 20241206151552.png",
     "Files/Pastes/Pasted image 20241206151945.png",
@@ -26,6 +29,7 @@
     "Life-Molding/'Partners'/Execution/2. Intent List.md",
     "Life-Molding/'Partners'/Core.md",
     "Life-Molding/'Partners'/Orbital.md",
+    "Life-Molding/'Partners'/Updates.md",
     "Life-Molding/Greatest Fears.md",
     "Logistics/Assets/Career & Skills.md",
     "Logistics/Assets/Expenses.md",
@@ -45,37 +49,45 @@
     "Logistics/An Focus Shortlist.md",
     "Logistics/May Wellness Checklist.md",
     "Logistics/Visiting An.md",
-    "Notes/abortive note analyzing dignity.md",
-    "Notes/dm draft.md",
-    "Notes/dm draft 2.md",
-    "Notes/Future with May.md",
-    "Notes/hypno postmortem.md",
-    "Notes/mixed log.md",
-    "Notes/nothing.md",
-    "Notes/openness.md",
-    "Notes/openness2.md",
-    "Notes/reaction to document 1.md",
-    "Notes/reaction to document 2.md",
-    "Notes/running away ideation.md",
+    "Media/Books/Caesar, Life of a Colossus, by Adrian Goldsworthy.md",
+    "Notes/no one.md",
+    "Notes/re-evaluation.md",
     "Stale/(!) A Request To Keep My Function.md",
+    "Stale/abortive note analyzing dignity.md",
     "Stale/An Attempt At Integration.md",
+    "Stale/an attempt at parasocializing.md",
     "Stale/Clothes Aesthetic Information Request.md",
+    "Stale/day log.md",
+    "Stale/dm draft.md",
+    "Stale/dm draft 2.md",
     "Stale/echoing back.md",
     "Stale/Friends.md",
+    "Stale/Future with May.md",
     "Stale/glow.md",
     "Stale/hello an.md",
+    "Stale/hypno postmortem.md",
     "Stale/Mindfulness Practice.md",
+    "Stale/mixed log.md",
     "Stale/Negativism Observations.md",
+    "Stale/nen.md",
     "Stale/Normal Girl (idk).md",
+    "Stale/nothing.md",
     "Stale/Observation Buffer.md",
     "Stale/Older Moralo-Logistic Notes About Partners.md",
+    "Stale/openness.md",
+    "Stale/openness2.md",
     "Stale/positivity perhaps.md",
     "Stale/Rambling -- Relationships, Debts.md",
+    "Stale/reaction to document 1.md",
+    "Stale/reaction to document 2.md",
     "Stale/remember your gifts.md",
     "Stale/remember your shame.md",
     "Stale/Reminder for Small Habits.md",
     "Stale/Right & Wrong Regarding Partners.md",
+    "Stale/running away ideation.md",
     "Atrium.md",
+    "lib/media/ghnr-ypauaa4qji.jpeg",
+    "lib/media/conjurer_diagram.svg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -256,12 +268,6 @@
       "exportedPath": "logistics/visiting-an.html",
       "dependencies": []
     },
-    "Notes/nothing.md": {
-      "modifiedTime": 1733446214062,
-      "sourceSize": 35,
-      "exportedPath": "notes/nothing.html",
-      "dependencies": []
-    },
     "Stale/Older Moralo-Logistic Notes About Partners.md": {
       "modifiedTime": 1733446214062,
       "sourceSize": 3073,
@@ -287,169 +293,169 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1735257683932,
-      "sourceSize": 34810,
+      "modifiedTime": 1738444796522,
+      "sourceSize": 39482,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1735257683932,
-      "sourceSize": 3576,
+      "modifiedTime": 1738444796522,
+      "sourceSize": 4008,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1735257683932,
+      "modifiedTime": 1738444796522,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -533,8 +539,8 @@
       "dependencies": []
     },
     "Life-Molding/'Partners'/Execution/2. Intent List.md": {
-      "modifiedTime": 1733519921651,
-      "sourceSize": 5412,
+      "modifiedTime": 1738444796522,
+      "sourceSize": 5399,
       "exportedPath": "life-molding/'partners'/execution/2.-intent-list.html",
       "dependencies": []
     },
@@ -580,18 +586,6 @@
       "exportedPath": "logistics/job-hunt/strategy.html",
       "dependencies": []
     },
-    "Notes/openness.md": {
-      "modifiedTime": 1734149062167,
-      "sourceSize": 7807,
-      "exportedPath": "notes/openness.html",
-      "dependencies": []
-    },
-    "Notes/openness2.md": {
-      "modifiedTime": 1734149062167,
-      "sourceSize": 594,
-      "exportedPath": "notes/openness2.html",
-      "dependencies": []
-    },
     "Faith/Goddess Adoration.md": {
       "modifiedTime": 1734316495221,
       "sourceSize": 446,
@@ -599,8 +593,8 @@
       "dependencies": []
     },
     "Faith/Misc Goddess Facts.md": {
-      "modifiedTime": 1734316495221,
-      "sourceSize": 190,
+      "modifiedTime": 1738444796522,
+      "sourceSize": 250,
       "exportedPath": "faith/misc-goddess-facts.html",
       "dependencies": []
     },
@@ -614,18 +608,6 @@
       "modifiedTime": 1734646207569,
       "sourceSize": 50844,
       "exportedPath": "faith/scripture.html",
-      "dependencies": []
-    },
-    "Notes/Future with May.md": {
-      "modifiedTime": 1734316495221,
-      "sourceSize": 5247,
-      "exportedPath": "notes/future-with-may.html",
-      "dependencies": []
-    },
-    "Notes/mixed log.md": {
-      "modifiedTime": 1734316495221,
-      "sourceSize": 4673,
-      "exportedPath": "notes/mixed-log.html",
       "dependencies": []
     },
     "Stale/(!) A Request To Keep My Function.md": {
@@ -718,18 +700,6 @@
       "exportedPath": "creation/true-alloy.html",
       "dependencies": []
     },
-    "Notes/reaction to document 1.md": {
-      "modifiedTime": 1734761399474,
-      "sourceSize": 2436,
-      "exportedPath": "notes/reaction-to-document-1.html",
-      "dependencies": []
-    },
-    "Notes/reaction to document 2.md": {
-      "modifiedTime": 1734761399474,
-      "sourceSize": 6187,
-      "exportedPath": "notes/reaction-to-document-2.html",
-      "dependencies": []
-    },
     "Creation/pleasee.png": {
       "modifiedTime": 1734842573205,
       "sourceSize": 951703,
@@ -740,18 +710,6 @@
       "modifiedTime": 1734842573205,
       "sourceSize": 1016646,
       "exportedPath": "creation/pleasee_original.png",
-      "dependencies": []
-    },
-    "Notes/abortive note analyzing dignity.md": {
-      "modifiedTime": 1734842573205,
-      "sourceSize": 1124,
-      "exportedPath": "notes/abortive-note-analyzing-dignity.html",
-      "dependencies": []
-    },
-    "Notes/running away ideation.md": {
-      "modifiedTime": 1734842573205,
-      "sourceSize": 4844,
-      "exportedPath": "notes/running-away-ideation.html",
       "dependencies": []
     },
     "Stale/Clothes Aesthetic Information Request.md": {
@@ -773,22 +731,152 @@
       "exportedPath": "stale/reminder-for-small-habits.html",
       "dependencies": []
     },
-    "Notes/dm draft.md": {
-      "modifiedTime": 1735257683932,
+    "Faith/Scripture 2023.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 8145,
+      "exportedPath": "faith/scripture-2023.html",
+      "dependencies": []
+    },
+    "Files/Pastes/Conjurer_Diagram.svg": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 86052,
+      "exportedPath": "files/pastes/conjurer_diagram.svg",
+      "dependencies": []
+    },
+    "Files/Pastes/GhNr-YpaUAA4qJi.jpeg": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 798410,
+      "exportedPath": "files/pastes/ghnr-ypauaa4qji.jpeg",
+      "dependencies": []
+    },
+    "Life-Molding/'Partners'/Updates.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 3094,
+      "exportedPath": "life-molding/'partners'/updates.html",
+      "dependencies": []
+    },
+    "Media/Books/Caesar, Life of a Colossus, by Adrian Goldsworthy.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 11035,
+      "exportedPath": "media/books/caesar,-life-of-a-colossus,-by-adrian-goldsworthy.html",
+      "dependencies": []
+    },
+    "Notes/no one.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 1331,
+      "exportedPath": "notes/no-one.html",
+      "dependencies": []
+    },
+    "Notes/re-evaluation.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 11876,
+      "exportedPath": "notes/re-evaluation.html",
+      "dependencies": []
+    },
+    "Stale/abortive note analyzing dignity.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 1124,
+      "exportedPath": "stale/abortive-note-analyzing-dignity.html",
+      "dependencies": []
+    },
+    "Stale/an attempt at parasocializing.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 3653,
+      "exportedPath": "stale/an-attempt-at-parasocializing.html",
+      "dependencies": []
+    },
+    "Stale/day log.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 3966,
+      "exportedPath": "stale/day-log.html",
+      "dependencies": [
+        "lib/media/ghnr-ypauaa4qji.jpeg"
+      ]
+    },
+    "Stale/dm draft.md": {
+      "modifiedTime": 1738444796522,
       "sourceSize": 4139,
-      "exportedPath": "notes/dm-draft.html",
+      "exportedPath": "stale/dm-draft.html",
       "dependencies": []
     },
-    "Notes/dm draft 2.md": {
-      "modifiedTime": 1735257683932,
+    "Stale/dm draft 2.md": {
+      "modifiedTime": 1738444796522,
       "sourceSize": 5297,
-      "exportedPath": "notes/dm-draft-2.html",
+      "exportedPath": "stale/dm-draft-2.html",
       "dependencies": []
     },
-    "Notes/hypno postmortem.md": {
-      "modifiedTime": 1735257683932,
+    "Stale/Future with May.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 5247,
+      "exportedPath": "stale/future-with-may.html",
+      "dependencies": []
+    },
+    "Stale/hypno postmortem.md": {
+      "modifiedTime": 1738444796522,
       "sourceSize": 3267,
-      "exportedPath": "notes/hypno-postmortem.html",
+      "exportedPath": "stale/hypno-postmortem.html",
+      "dependencies": []
+    },
+    "Stale/mixed log.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 4673,
+      "exportedPath": "stale/mixed-log.html",
+      "dependencies": []
+    },
+    "Stale/nen.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 15619,
+      "exportedPath": "stale/nen.html",
+      "dependencies": [
+        "lib/media/conjurer_diagram.svg"
+      ]
+    },
+    "Stale/nothing.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 35,
+      "exportedPath": "stale/nothing.html",
+      "dependencies": []
+    },
+    "Stale/openness.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 7808,
+      "exportedPath": "stale/openness.html",
+      "dependencies": []
+    },
+    "Stale/openness2.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 594,
+      "exportedPath": "stale/openness2.html",
+      "dependencies": []
+    },
+    "Stale/reaction to document 1.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 2436,
+      "exportedPath": "stale/reaction-to-document-1.html",
+      "dependencies": []
+    },
+    "Stale/reaction to document 2.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 6187,
+      "exportedPath": "stale/reaction-to-document-2.html",
+      "dependencies": []
+    },
+    "Stale/running away ideation.md": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 4844,
+      "exportedPath": "stale/running-away-ideation.html",
+      "dependencies": []
+    },
+    "lib/media/ghnr-ypauaa4qji.jpeg": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 798410,
+      "exportedPath": "lib/media/ghnr-ypauaa4qji.jpeg",
+      "dependencies": []
+    },
+    "lib/media/conjurer_diagram.svg": {
+      "modifiedTime": 1738444796522,
+      "sourceSize": 86052,
+      "exportedPath": "lib/media/conjurer_diagram.svg",
       "dependencies": []
     }
   }
